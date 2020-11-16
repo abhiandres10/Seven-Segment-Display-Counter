@@ -1,7 +1,7 @@
-`timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: Guha Enterprises
-// Engineer: Archishman Guha(archieguha@gmail.com)
+// Company: Chakrabarty Enterprise
+// Engineer`timescale 1ns / 1ps
+: Abhinandan Chakrabarty(abhinandanchakrabarty47@gmail.com)
 // 
 // Create Date:    00:30:40 08/09/2020 
 // Design Name: 
